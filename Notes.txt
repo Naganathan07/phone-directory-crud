@@ -1,0 +1,37 @@
+bootstrap ----- npm i bootstrap -css,js
+fontawesome icons --- npm i @fontawesome/fontawesome-free --css
+
+connect fontawesome cdn link to html home page
+
+axios - npm i axios
+
+react-roter-dom   ----  npm i react-roter-dom
+
+
+components : Navbar,Contact-list,view-contact,edit-contact, add-contct
+
+
+services : ContactService
+
+
+
+
+
+Backend
+
+
+json-server  (node js package)  -- npm i json-server
+
+json file  ---- db.json file  create 
+
+
+GET all contacts : GET ->http://localhost:3000/contacts
+
+Get a single Contact :GET -> http://localhost:3000/contacts/Id
+
+Create a  contact : POST -> http://localhost:3000/contacts
+
+Update a  contact :PUT -> http://localhost:3000/contacts/Id
+
+Delete a  contact : DELETE -> http://localhost:3000/contacts/Id
+
